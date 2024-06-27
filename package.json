@@ -1,0 +1,25 @@
+{
+    "name": "free-play",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "autoprefixer": "^10.4.19",
+        "firebase": "^10.12.2",
+        "firebaseui": "^6.1.0",
+        "framer-motion": "^11.2.12",
+        "next": "latest",
+        "postcss": "^8.4.38",
+        "react": "latest",
+        "react-dom": "latest",
+        "tailwindcss": "^3.4.4"
+    },
+    "devDependencies": {
+        "@types/react": "18.3.3",
+        "typescript": "5.5.2"
+    }
+}
